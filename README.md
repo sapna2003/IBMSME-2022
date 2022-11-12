@@ -12,3 +12,8 @@ We have created work flow for :-
  c. Highest Qualification of EMI or Rent payers
  d. Highest Qualification of people who do over expendicture
  Work Flow source URL is https://cloud.trifacta.com/flows/202356?workspace=sapnachaudharycsda20-amq8.
+ 
+ # Day-3 - 11/11/2022 webpage
+ 1. we have created graphs for different outputs.
+ 2. data visualization tools such as vega,zoho etc helped us to create those graphs.
+ 3. then we have created webpage for representing those graphs. 
